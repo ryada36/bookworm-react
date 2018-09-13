@@ -1,2 +1,2 @@
 # bookworm-react
-An application for book lovers
+An application for book lovers.
